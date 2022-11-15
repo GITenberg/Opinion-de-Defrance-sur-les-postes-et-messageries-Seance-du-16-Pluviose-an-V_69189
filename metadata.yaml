@@ -1,0 +1,33 @@
+_repo: Opinion-de-Defrance-sur-les-postes-et-messageries-Seance-du-16-Pluviose-an-V_69189
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Defrance, Jean Claude
+    alias: Defrance, Jean-Claude
+    birthdate: 1743
+    deathdate: 1807
+    gutenberg_agent_id: '33740'
+    url: http://www.gutenberg.org/2009/agents/33740
+description: ''
+gutenberg_issued: '2022-10-20'
+identifiers:
+  gutenberg: '69189'
+language: fr
+pgterms:marc905: 20060723131212defrance
+pgterms:marc906: '1797'
+pgterms:marc907: fr
+production_note: Adrian Mastronardi, Claudine Corbasson and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- France -- Administration -- Early works to 1800'
+- !lcsh 'Finance, Public -- France -- Early works to 1800'
+- !lcc 'DC'
+- !lcc 'HE'
+- GITenberg
+title: 'Opinion de Defrance, sur les postes et messageries: Séance du 16 Pluviôse,
+  an V'
+url: http://www.gutenberg.org/ebooks/69189
